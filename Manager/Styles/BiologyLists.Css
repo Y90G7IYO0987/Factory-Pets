@@ -71,7 +71,7 @@ margin-top: 0.6em;
 }
 
 #BiologyTable {
-    border="2";
+    border= 10px solid;
     margin-top:0.5em;
     font-size:1.3em;
     background:  linear-gradient(to left, rgb(196, 16, 16),rgb(60, 4, 199));
