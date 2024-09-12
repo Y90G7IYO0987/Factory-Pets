@@ -9,6 +9,9 @@
 .List {
     display: flex;
 }
+body {
+    background: linear-gradient(to right,blue,red)
+}
 .List>a {
     display: block;
     color: white;
@@ -48,7 +51,6 @@
 .text-Style {
     font-style: italic;
     color:rgb(87, 84, 84);
-    background: linear-gradient(to right,blue,red)
 }
 .none-tx-decorations {
     text-decoration: none;
